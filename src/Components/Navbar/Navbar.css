@@ -1,0 +1,13 @@
+.navbar-brand {
+    font-family: 'ProximaNovaBold';   
+    font-weight:500;
+    font-size: 1.6rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color:#0f0e17!important;
+}
+
+.bg-transparent {
+    background-color: transparent!important;
+}
+

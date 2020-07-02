@@ -1,0 +1,88 @@
+.styles_Editext__button__6H8n_,
+.styles_Editext__edit_button__hthOZ,
+.styles_Editext__hide_default_icons__AV_7m,
+.styles_Editext__edit_button__hthOZ {
+    background-color: transparent;
+    border: none;
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.styles_Editext__button__6H8n_.styles_Editext__save_button__3WN6q {
+    color: #f25f4c;
+}
+
+.styles_Editext__button__6H8n_.styles_Editext__cancel_button__259hb {
+    color: #a7a9be;
+}
+
+.styles_Editext__main_container__2Y-IL.editextTitle {
+    width: 90%;
+}
+
+.styles_Editext__button__6H8n_:hover,
+.styles_Editext__edit_button__hthOZ:hover,
+.styles_Editext__hide_default_icons__AV_7m:hover,
+.styles_Editext__edit_button__hthOZ:hover {
+    background-color: transparent;
+    border: none;
+}
+
+.styles_Editext__input__1534X {
+    padding: 0;
+    width: 50%;
+}
+
+.styles_Editext__editing_container__3yvUv {
+    display: flex;
+}
+
+#deleteListButton {
+    color: #a7a9be;
+    font-size: 1.25rem;
+}
+
+#deleteListButton:hover {
+    cursor: pointer;
+}
+
+.MuiExpansionPanelSummary-root.Mui-expanded {
+    min-height: 50px !important;
+}
+
+/* List Style */
+
+.listCard {
+    min-height: 500px;
+    width: 360px;
+    margin: 1rem;
+    padding: 2rem;
+    border-radius: 5px;
+    background-color: #fafbfd;
+    transition: 0.3s ease;
+}
+
+.editextTitle {
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: "ProximaNovaBold";
+    color: #0f0e17;
+}
+
+@media (max-width: 1750px) {
+    .listCard {
+        width: 300px;
+        transition: 0.3s ease;
+    }
+}
+
+@media (max-width: 1500px) {
+    .listCard {
+        width: 400px;
+        transition: 0.3s ease;
+    }
+}
+
+@media (max-width: 990px) {}

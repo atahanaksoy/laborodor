@@ -1,0 +1,49 @@
+#TimerControls {
+    width: 100%;
+    }
+    
+    #playButton {
+        background-color: #ff8e3c;
+        border: none;
+        color: #fffffe;
+        font-weight: 700;
+        font-size: 2rem;
+        padding: .25rem;
+        border-radius: 2rem;
+        transition: 0.3s ease;
+    }
+    
+    #playButton:hover {
+        cursor: pointer;
+    }
+    
+    
+    .MuiSlider-colorPrimary	{
+        color:#ff8e3c!important;
+    }
+    
+    .MuiSlider-markLabel {
+        color: #0d0d0d!important;
+    } 
+    
+    .PrivateValueLabel-label-5 {
+        color: #fffffe!important;
+    }
+    
+    .MuiSlider-rail {
+        height: 6px!important;
+    }
+    
+    .MuiSlider-mark {
+        width: 2px!important;
+        background-color: #fffffe!important;
+        height: 20%!important;
+    }
+    
+    .MuiSlider-markLabel, .PrivateValueLabel-label-5 {
+    
+    font-family: inherit!important;
+    font-weight:600;
+    }
+    
+    

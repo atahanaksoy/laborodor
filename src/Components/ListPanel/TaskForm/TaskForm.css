@@ -1,0 +1,35 @@
+#addButton {
+    background-color: #ff8906;
+    border: none;
+    color:white;
+    font-weight:700;
+    font-size: 2rem;
+    border-radius: 5px;
+    width: 3.5rem;
+    height: 2rem;
+    transition: 0.3s ease;
+}
+
+#addButton:hover {
+    cursor: pointer;
+}
+
+.form-control:focus {
+    border-color: rgb(231, 229, 229);
+    box-shadow: none;
+  }
+
+
+#TasksForm {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+label {
+    font-size: 1.1rem;
+    color:#0f0e17;
+}
+
+.form-control {
+    font-size: 1.1rem;
+}

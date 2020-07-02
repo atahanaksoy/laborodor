@@ -1,0 +1,70 @@
+.page-link {
+    color: grey;
+    background-color: transparent;
+    border: none;
+    transition: 0.3s ease;
+}
+
+.page-link:hover,
+.page-link:active,
+.page-link:enabled,
+.page-link:focus {
+    background-color: transparent !important;
+    color: #F8D57E !important;
+    transition: 0.3s ease;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+#pageButtons {
+    position: fixed;
+    right: 0;
+    top: 40%;
+    z-index: 1050;
+}
+
+#Panels {
+    height: 100%;
+}
+
+.fullPage {
+    height: 100vh;
+}
+
+ul {
+    margin: 0;
+}
+
+#addButton2 {
+    margin-top: 1rem;
+    background-color: #ff8906;
+    border: none;
+    color: white;
+    font-weight: 700;
+    font-size: 2rem;
+    border-radius: 5px;
+    width: 3.5rem;
+    transition: 0.3s ease;
+    height: 2rem;
+}
+
+#addButton2:hover {
+    cursor: pointer;
+}
+
+#mainPanel {
+    margin-left: 0.25rem;
+    margin-right: 3rem;
+}
+
+
+@media(max-width:990px) {
+    #mainPanel {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .columns {
+        height: 100vh;
+    }
+}

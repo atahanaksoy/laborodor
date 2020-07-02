@@ -1,0 +1,5 @@
+- fix timer
+- CSS CSS CSS
+- addtask'i list name yerine list id ye göre ekle.
+  
+  

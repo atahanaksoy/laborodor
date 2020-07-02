@@ -1,0 +1,15 @@
+.CircularProgressbar {
+    padding: 2rem;
+}
+
+
+.ongoingTask {
+    background-color: #fafbfd;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.ongoingTaskRow {
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+}

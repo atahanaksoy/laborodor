@@ -1,0 +1,38 @@
+.MuiExpansionPanel-rounded {
+    border-radius: 5px !important;
+}
+
+.MuiPaper-elevation1 {
+    box-shadow: none !important;
+}
+
+.MuiExpansionPanelDetails-root {
+    word-wrap: break-word;
+}
+
+.task {
+    margin-bottom: 1.5rem;
+}
+
+.editextTaskTitle {
+    font-size: 1.2rem;
+    color: #0f0e17;
+}
+
+.MuiIconButton-root {
+    color: #0f0e17 !important;
+}
+
+
+.editextTaskNotes {
+    font-size: 1.1rem;
+    font-weight: 400;
+    width: 100%;
+    word-wrap: break-word;
+    color: #2e2f3e;
+    font-family: "ProximaNova";
+}
+
+.MuiPaper-root {
+    background-color: #fffffe !important;
+}
