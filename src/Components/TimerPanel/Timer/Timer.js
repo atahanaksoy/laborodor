@@ -148,13 +148,21 @@ class Timer extends React.Component {
       ) {
         var finishedTask = this.props.todo.shift();
         var done = [finishedTask, ...this.props.done];
-
         this.props.set_todo(this.props.todo);
         this.props.set_done(done);
+        this.forceUpdate()
       } else {
         var list = this.props.todo;
         list[0]["finishedRounds"] += 1;
         this.props.set_todo(list);
+        if (list[0]["finishedRounds"] + 1 > list[0]["rounds"]) {
+          console.log("Buraya girdi")
+          var finishedTask = this.props.todo.shift();
+          var done = [finishedTask, ...this.props.done];
+          this.props.set_todo(this.props.todo);
+          this.props.set_done(done);
+          this.forceUpdate()
+        }
       }
       this.forceUpdate();
     }
