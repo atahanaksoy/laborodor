@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2e421959cb1683d261315f5f58efb6c",
+    "revision": "77b6f9a9960604d6153b403fa315e9d9",
     "url": "/laborodor/index.html"
   },
   {
