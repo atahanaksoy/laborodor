@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e24e9e2cb31eca2c2673116691e69a31",
+    "revision": "541c88f340bb9dc6bbfa702533719fd5",
     "url": "/laborodor/index.html"
   },
   {
-    "revision": "dd8bcb020a4213634a31",
+    "revision": "426a678e4cdd30165241",
     "url": "/laborodor/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "d5c8cdf7fa6ba642f5ea",
+    "revision": "5e169d4fe3960cf8d725",
     "url": "/laborodor/static/css/main.50dd1ad0.chunk.css"
   },
   {
-    "revision": "dd8bcb020a4213634a31",
-    "url": "/laborodor/static/js/2.14f1c44d.chunk.js"
+    "revision": "426a678e4cdd30165241",
+    "url": "/laborodor/static/js/2.cb33f922.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/laborodor/static/js/2.14f1c44d.chunk.js.LICENSE.txt"
+    "url": "/laborodor/static/js/2.cb33f922.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5c8cdf7fa6ba642f5ea",
-    "url": "/laborodor/static/js/main.a3113b5a.chunk.js"
+    "revision": "5e169d4fe3960cf8d725",
+    "url": "/laborodor/static/js/main.9335e7f1.chunk.js"
   },
   {
     "revision": "21360c76c2cb450b2450",
