@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77b6f9a9960604d6153b403fa315e9d9",
+    "revision": "a9fa6e561595b31f8355ac9fc8ccd35a",
     "url": "/laborodor/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/laborodor/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "5e169d4fe3960cf8d725",
+    "revision": "2e5a18002179106deda4",
     "url": "/laborodor/static/css/main.50dd1ad0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/laborodor/static/js/2.cb33f922.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e169d4fe3960cf8d725",
-    "url": "/laborodor/static/js/main.9335e7f1.chunk.js"
+    "revision": "2e5a18002179106deda4",
+    "url": "/laborodor/static/js/main.20e91cc1.chunk.js"
   },
   {
     "revision": "21360c76c2cb450b2450",
