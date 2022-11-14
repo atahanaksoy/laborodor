@@ -19,7 +19,7 @@
     "react-editext": "^3.16.0",
     "react-flip-move": "^3.0.4",
     "react-page-scroller": "^2.0.7-beta",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "uuid": "^8.2.0"
   },
   "scripts": {
